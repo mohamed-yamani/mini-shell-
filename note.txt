@@ -1,0 +1,9 @@
+cd - if not existe oldpwd                     1
+setenv hello=worl= && and repeat               1            
+unsetenv 
+
+
+
+normite libft also
+
+setenv in CSH
